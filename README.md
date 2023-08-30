@@ -8,48 +8,46 @@
 - B.S., Geology | Louisiana State University A&M (_December 2007_)
 
 ## Work Experience
-**Data Scientist @ Company (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ SRC, LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Analytics Consultant @ Halff Associates (_April 2018 - Present_)**
+- Served as SME for geographic information system and its associated technology (GIS&T) providing data analytics consulting services for gas transmission pipeline and related assets.
+- Advised managers and directors on strategies for process improvements and new technologies.
+- Built machine learning models to predict location of defects along +4,000 miles of gas transmission pipelines using modern ensemble algorithm methods. Tabular data with 3 million rows, 50+ columns, multiple data sets. 
+- Initiated project scope development to create a predictive maintenance model using the latest computational technologies in machine learning and geospatial analysis.
+- Planed strategy to build model to predict likelihood of pipeline corrosion based on pipeline asset data, geospatial location, and inspection data.
+- Reviewed, preprocessed, loaded, and analyzed over +4,000 miles of pipeline asset data and assessment data to maintain asset integrity and ensure the safety of gas transmission pipelines.
+- Evaluated data collection processes and developed strategies to improve data workflows. Modeled process improvements and advised client. Overall process time reduce by 40%.
+- Planned data analytics process consisting of data preparation (data mineing, cleaning, and feature selection), preprocessing (cleaning, transformation, and standardization), and analysis (visualization, regression, correlation, and forecasting).
+- Helped to identify and assess potential threats to pipeline integrity to ensure regulatory compliance, reduce maintenance costs and enhance safety and environmental protection.
+- Technical Skills: SQL, Python, Tableau, Esri ArcGIS Pro, ArcGIS Enterprise, ArcGIS API for Python, Utility Pipeline Data Model (UPDM)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Predictive Maintenance | Renewable Energy
+- Predict the failure of generators for a wind energy company to help reduce machinery maintenance costs. The model predicted occurrence of failures in wind turbine generators ~87% +/- 2% based on 40 factors (variables) in a ciphered (blind) dataset.
+- Determined most important factors (variables) influencing the prediction of failures. The top 5 accounted for nearly 37% of the relative importance.
+- Built 21 classification models using 7 different machine learning algorithms, including Tree-based (Decision Trees, Random Forest) & boosted models (XGBoost). Compared all combinations and permutations of up sampling and down sampling.
+- Optimized the model to ensure that the maximum number of generator failures were predicted correctly (i.e., minimize false negatives). Used recall as scorer in cross-validation and hyperparameter tuning. 
+- Reduce overall machinery maintenance costs by considering costs of inspection, repair, and replacement.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Clustering stock analysis |  Finance
+- Built a diversified portfolio by analyzing and clustering stocks based on financial attributes.
+- Analyzed stock data for 340 companies, grouped the stocks into 5 clusters based on 15 attributes using both K-Means and Hierarchical clustering analysis techniques.
+- Identified similar and dissimilar characteristics within attribute data points (price, volatility, industry sector, and typical financial indicators) by performing EDA, scaling the data, and correlating features.
+- Chose the optimal number of groups, compared results of both, and shared insights about the characteristics of each group which helped develop an optimized portfolio for clients with custom risk-return profiles.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Project List
+Built a diversified portfolio by analyzing and clustering stocks based on financial attributes.
+Predicted the failure of generators for a wind energy company to help reduce machinery maintenance costs.
+Facilitated the process of visa approvals and recommend suitable profiles for visa certification and denial using ensemble ML models.
+Determined the cancellation status of hotel bookings and identify its driving factors using classification models.
+Built a dynamic pricing model for a used and refurbished devices seller using linear regression and identify key factors.
+Used A/B testing to identify the effectiveness of the new landing page of an online news portal.
+Perform data analysis and provide actionable insights for a food aggregator company to help improve the business.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+#### Using Analytics
+Data Visualization in Tableau
+Marketing and Retail Analytics
+Finance and Risk Analytics
+Web and Social Media Analytics
+Supply Chain and Logistics Analytics
+Time Series Forecasting
+Logistic Regression and Decision Tree algorithms
