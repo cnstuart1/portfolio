@@ -1,10 +1,10 @@
-# portfolio
 # Data Scientist
 
-#### Technical Skills: Python, SQL, LLM, Pytorch, Tensorflow
+#### Technical Skills: Python, SQL, Tableau, GIS Enterprise, Full Stack Data Science
+
 
 ## Education								       		
-- Post Graduate Program, Data Science and Business Analytics Analytics | The University of Texas at Austin (_May 2023_)	 			        		
+- Post Graduate Program, Data Science & Business Analytics | The University of Texas at Austin (_May 2023_)	 			        		
 - B.S., Geology | Louisiana State University A&M (_December 2007_)
 
 ## Work Experience
@@ -14,11 +14,15 @@
 - Built machine learning models to predict location of defects along +4,000 miles of gas transmission pipelines using modern ensemble algorithm methods. Tabular data with 3 million rows, 50+ columns, multiple data sets. 
 - Initiated project scope development to create a predictive maintenance model using the latest computational technologies in machine learning and geospatial analysis.
 - Planed strategy to build model to predict likelihood of pipeline corrosion based on pipeline asset data, geospatial location, and inspection data.
+
+
+## Work Experience
+**Data Analytics Consultant @ Halff Associates (_April 2018 - Present_)**
+
 - Reviewed, preprocessed, loaded, and analyzed over +4,000 miles of pipeline asset data and assessment data to maintain asset integrity and ensure the safety of gas transmission pipelines.
 - Evaluated data collection processes and developed strategies to improve data workflows. Modeled process improvements and advised client. Overall process time reduce by 40%.
 - Planned data analytics process consisting of data preparation (data mineing, cleaning, and feature selection), preprocessing (cleaning, transformation, and standardization), and analysis (visualization, regression, correlation, and forecasting).
 - Helped to identify and assess potential threats to pipeline integrity to ensure regulatory compliance, reduce maintenance costs and enhance safety and environmental protection.
-- Technical Skills: SQL, Python, Tableau, Esri ArcGIS Pro, ArcGIS Enterprise, ArcGIS API for Python, Utility Pipeline Data Model (UPDM)
 
 ## Projects
 ### Predictive Maintenance | Renewable Energy
@@ -33,19 +37,6 @@
 - Analyzed stock data for 340 companies, grouped the stocks into 5 clusters based on 15 attributes using both K-Means and Hierarchical clustering analysis techniques.
 - Identified similar and dissimilar characteristics within attribute data points (price, volatility, industry sector, and typical financial indicators) by performing EDA, scaling the data, and correlating features.
 - Chose the optimal number of groups, compared results of both, and shared insights about the characteristics of each group which helped develop an optimized portfolio for clients with custom risk-return profiles.
-
-## Work Experience
-**Data Analytics Consultant @ Halff Associates (_April 2018 - Present_)**
-- Served as SME for geographic information system and its associated technology (GIS&T) providing data analytics consulting services for gas transmission pipeline and related assets.
-- Advised managers and directors on strategies for process improvements and new technologies.
-- Built machine learning models to predict location of defects along +4,000 miles of gas transmission pipelines using modern ensemble algorithm methods. Tabular data with 3 million rows, 50+ columns, multiple data sets. 
-- Initiated project scope development to create a predictive maintenance model using the latest computational technologies in machine learning and geospatial analysis.
-- Planed strategy to build model to predict likelihood of pipeline corrosion based on pipeline asset data, geospatial location, and inspection data.
-- Reviewed, preprocessed, loaded, and analyzed over +4,000 miles of pipeline asset data and assessment data to maintain asset integrity and ensure the safety of gas transmission pipelines.
-- Evaluated data collection processes and developed strategies to improve data workflows. Modeled process improvements and advised client. Overall process time reduce by 40%.
-- Planned data analytics process consisting of data preparation (data mineing, cleaning, and feature selection), preprocessing (cleaning, transformation, and standardization), and analysis (visualization, regression, correlation, and forecasting).
-- Helped to identify and assess potential threats to pipeline integrity to ensure regulatory compliance, reduce maintenance costs and enhance safety and environmental protection.
-- Technical Skills: SQL, Python, Tableau, Esri ArcGIS Pro, ArcGIS Enterprise, ArcGIS API for Python, Utility Pipeline Data Model (UPDM)
 
 ### Project List
 - Built a diversified portfolio by analyzing and clustering stocks based on financial attributes.
