@@ -20,7 +20,7 @@
 **Data Analytics Consultant @ Halff Associates (_April 2018 - Present_)**
 
 - Reviewed, preprocessed, loaded, and analyzed over +4,000 miles of pipeline asset data and assessment data to maintain asset integrity and ensure the safety of gas transmission pipelines.
-- Evaluated data collection processes and developed strategies to improve data workflows. Modeled process improvements and advised client. Overall process time reduce by 40%.
+- Evaluated data collection processes and developed strategies to improve data workflows. Modeled process improvements and advised client. Overall process time reduced by 40%.
 - Planned data analytics process consisting of data preparation (data mineing, cleaning, and feature selection), preprocessing (cleaning, transformation, and standardization), and analysis (visualization, regression, correlation, and forecasting).
 - Helped to identify and assess potential threats to pipeline integrity to ensure regulatory compliance, reduce maintenance costs and enhance safety and environmental protection.
 
