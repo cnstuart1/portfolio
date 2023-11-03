@@ -18,26 +18,36 @@
 - Optimized the model to ensure that the maximum number of generator failures were predicted correctly (i.e., minimize false negatives). Used recall as scorer in cross-validation and hyperparameter tuning. 
 - Reduce overall machinery maintenance costs by considering costs of inspection, repair, and replacement.
 
-### Clustering stock analysis |  Finance
+### Clustering stock analysis | Finance
 - Built a diversified portfolio by analyzing and clustering stocks based on financial attributes.
 - Analyzed stock data for 340 companies, grouped the stocks into 5 clusters based on 15 attributes using both K-Means and Hierarchical clustering analysis techniques.
 - Identified similar and dissimilar characteristics within attribute data points (price, volatility, industry sector, and typical financial indicators) by performing EDA, scaling the data, and correlating features.
 - Chose the optimal number of groups, compared results of both, and shared insights about the characteristics of each group which helped develop an optimized portfolio for clients with custom risk-return profiles.
 
-### Project List
-- Built a diversified portfolio by analyzing and clustering stocks based on financial attributes.
-- Predicted the failure of generators for a wind energy company to help reduce machinery maintenance costs.
-- Facilitated the process of visa approvals and recommend suitable profiles for visa certification and denial using ensemble ML models.
-- Determined the cancellation status of hotel bookings and identify its driving factors using classification models.
-- Built a dynamic pricing model for a used and refurbished devices seller using linear regression and identify key factors.
-- Used A/B testing to identify the effectiveness of the new landing page of an online news portal.
-- Perform data analysis and provide actionable insights for a food aggregator company to help improve the business.
+### Business Statistics | Tech Website Optimization
+•	Used A/B testing to identify the effectiveness of the new landing page of an online news portal.
+•	Tested statistical hypothesis and determined which user groups (control/treatment) activities were statistically relevant to customer conversion rate. Compared user activities of preferred language and time spent on page.
+•	The new landing page increased the conversion rate from 43% to 67%.
 
+### Linear Regression | Retail
+•	Built a dynamic pricing model for a used and refurbished devices seller using linear regression and identifed key factors. 
+•	Analyzed dataset, built a linear regression model for resale price, and identified key factors significantly influencing price prediction.
+•	The model explained ~84% of the variation in the data and predicted the normalized used price within +/- 4.5% (MAPE on the test data). Compared MAPE vs MAE (+/- 0.18). Charted test vs. training and compared the adjusted R-squared of 84.2% vs. 83.5%.
+- Skills & Tools Covered: EDA, Linear Regression, Linear Regression assumptions, Business insights and recommendations
+
+### Classification | Travel, Hospitality, Consumer Descretionary
+•	Determined the cancellation status of hotel bookings and identified its driving factors using classification models.
+•	Analyzed the data of hotels to find which factors have a high influence on booking cancellations, build a predictive model that predicted which bookings were most likely to be canceled in advance, and helped in formulating profitable policies for cancellations and refunds.
+- Skills & Tools Covered: EDA, Data Pre-processing, Logistic regression, Multicollinearity, Finding optimal threshold using AUC-ROC curve, Decision trees, Pruning
+
+### Data Mining Analysis | Transportation
+•	Performed data analysis and provided actionable insights for a food aggregator company to help improve the business. Performed customer order analysis on data from customer online portal using Python.
+- Skills & Tools Covered: Exploratory Data Analysis, (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
 
 
 # 🗺 Joe's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! The tables and links below are a WIP (a work in progress), I am documenting summary of my projects...stay tuned. 
 
 ## 📚 Table of Contents
 - [Data Science](#data-science)
